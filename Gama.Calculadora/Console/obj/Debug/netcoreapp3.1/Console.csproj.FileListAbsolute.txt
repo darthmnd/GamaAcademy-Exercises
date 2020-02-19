@@ -1,0 +1,11 @@
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.exe
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.deps.json
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.runtimeconfig.json
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.runtimeconfig.dev.json
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.dll
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\bin\Debug\netcoreapp3.1\Gama.Calculadora.Console.pdb
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\obj\Debug\netcoreapp3.1\Gama.Calculadora.Console.dll
+C:\Users\Avanade\Desktop\Gama Academy\Gama.Calculadora\Console\obj\Debug\netcoreapp3.1\Gama.Calculadora.Console.pdb
